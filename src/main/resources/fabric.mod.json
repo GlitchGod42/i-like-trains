@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "i-like-trains",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for Meteor Client addons.",
+  "name": "i like trains",
+  "description": "some random meteor client addon",
   "authors": [
-    "seasnail"
+    "GlitchGod42"
   ],
   "contact": {
-    "sources": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "sources": "https://github.com/GlitchGod42/i-like-trains"
   },
   "icon": "assets/template/icon.png",
   "environment": "client",
@@ -21,7 +21,7 @@
     "addon-template.mixins.json"
   ],
   "custom": {
-    "meteor-client:color": "225,25,25",
+    "meteor-client:color": "52,235,171",
     "modmenu": {
       "parent": {
         "id": "meteor-client"
